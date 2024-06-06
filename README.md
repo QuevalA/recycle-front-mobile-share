@@ -6,6 +6,7 @@
 - [Principales dépendances](#principales-dépendances)
 - [Prérequis](#prérequis)
 - [Installation](#installation)
+- [Contributeurs](#contributeurs)
 
 <br>
 
@@ -68,3 +69,8 @@ Partie back end : https://github.com/QuevalA/recycle-back-share
 3. Pour exécuter l'application sur Android, exécutez `npm run android`.
 4. Pour exécuter l'application sur iOS, exécutez `npm run ios`.
 5. Pour démarrer le serveur de développement, exécutez `npm start`.
+
+<br>
+
+## Contributeurs
+Kévin Terrier, Curtis Marty-Jackson, Alexis Carrere, Adam Queval.
